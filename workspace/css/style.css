@@ -1,0 +1,9 @@
+/** {
+	border: 1px solid red;
+}*/
+.title, .new-game, .player-picks, .score-board {
+	padding: 20px;
+}
+.name, .player-selection, .score {
+	padding: 10px;
+}
