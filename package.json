@@ -1,0 +1,31 @@
+{
+  "name": "zadanie_9_7",
+  "version": "1.0.0",
+  "description": "kodilla js zadanie",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sebulw/zadanie_9_7.git"
+  },
+  "keywords": [
+    "kodilla",
+    "js"
+  ],
+  "author": "Sebastian Wojnicz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sebulw/zadanie_9_7/issues"
+  },
+  "homepage": "https://github.com/Sebulw/zadanie_9_7#readme",
+  "devDependencies": {
+    "grunt": "^1.0.1",
+    "grunt-browser-sync": "^2.2.0",
+    "grunt-contrib-imagemin": "^2.0.1",
+    "grunt-contrib-jshint": "^1.1.0",
+    "grunt-contrib-watch": "^1.0.0",
+    "grunt-sass": "^2.0.0"
+  }
+}
